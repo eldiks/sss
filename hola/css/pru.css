@@ -1,0 +1,13 @@
+body {
+    background-color: black;
+    background-size: cover;
+  }
+  .logo {
+    background: url(hola\img\imagens.png) no-repeat 80% 80%;
+    /* imagen se escalará de forma que mantenga las proporciones*/
+    background-size: contain;
+    width: 180px;
+    height: 55px;
+    float: left;
+  }
+  
